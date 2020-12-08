@@ -21,4 +21,3 @@ var people = [
   {"Name": "Zaire", "Nickname": "Zai", "Age": 29, "Favorite Bands": ["MCR", "panic at the disco", "fall out boy"], "Favorite Shows": ["Rick and morty", "venture bros"], "Is Programmer": false, "State": "TX", "Hair Color": "Black", "Motto": "I totally got this ", "Responded on": "2017-08-02T14:01:35.267Z"}
 ]
 
-export { people };
